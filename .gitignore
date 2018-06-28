@@ -1,0 +1,15 @@
+*/__pycache__/
+.cache/
+tests/*/__pycache__/
+.pytest_cache/
+*/*~
+*.#*
+*#
+*~
+docs/_build
+/build
+/dist
+/electrumx.egg-info
+
+.idea/
+/start_*.bash
